@@ -30,6 +30,11 @@ a {
     text-decoration: none;
 }
 
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .footer {
     position: fixed;
     left: 0;
